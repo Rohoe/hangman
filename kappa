@@ -1,0 +1,11 @@
+--- !ruby/object:Hangman::Game
+misses: 0
+word: analogy
+game_state:
+- 
+- 
+- 
+- 
+- 
+- 
+- 

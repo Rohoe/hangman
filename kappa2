@@ -1,0 +1,13 @@
+--- !ruby/object:Hangman::Game
+misses: 2
+word: Salvatore
+game_state:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- e
